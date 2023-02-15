@@ -31,7 +31,19 @@ console.log(userName);
 
 //DATA-TYPES
 
+//Primitive data types--int string boolean 
+//Non-primitive data types--array object
 //we dont need to specify int,string,boolean,float etc..
+
+//typeof operator used check what type the variable.
+
+console.log(typeof (country));//string
+console.log(typeof continent);//string
+console.log(typeof population);//number
+console.log(typeof userName);//string
 
 const isIsland = false;
 let language;
+
+console.log(typeof isIsland);//boolean
+console.log(typeof language);//undefined
