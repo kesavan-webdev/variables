@@ -13,9 +13,12 @@ let population=140.76;
 var userName="kesav";  
 var userName = "kumar";//it doesnt throw error
 userName = "dinesh";   //it doesnt throw error
+  
+
+//  =  assignment operator
 
 // output
 console.log(country);
-console.log(continent);
+console.log(continent);   
 console.log(population);
 console.log(userName)
